@@ -1,4 +1,4 @@
-### Hi, My name is Chanhee Kang 👋
+### Hi, My name is Chanhee Kang
 
 #### 🌱 Work Experience
 - Junior Researcher at Institue of Financial Engineering, **Yonhap Infomax** (2022 ~ ing)
@@ -8,6 +8,6 @@
 - **Master of Artificial Intellignece** in Sungkyunkwan University, South Korea
 - **Bachelor of Information Technology** University of Wollongong, Australia
 
-#### Exersize
+#### 👋 Exersize
 - StackOveFlow (2022 ~ ing)
 - Tech Blog ([www.https://aboutnlp.tistory.com/])
