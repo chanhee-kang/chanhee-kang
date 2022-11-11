@@ -1,6 +1,5 @@
 ### Hi, My name is Chanhee Kang 👋
 
-
 #### 🌱 Work Experience
 - Junior Researcher at Institue of Financial Engineering, **Yonhap Infomax** (2022 ~ ing)
 - Junior Data-Scientist at **CarVi** (2021 ~ 2022)
@@ -8,17 +7,7 @@
 #### 🔭 Education
 - **Master of Artificial Intellignece** in Sungkyunkwan University, South Korea
 - **Bachelor of Information Technology** University of Wollongong, Australia
-<!--
-**chanhee-kang/chanhee-kang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Exersize
+- StackOveFlow (2022 ~ ing)
+- Tech Blog ([www.https://aboutnlp.tistory.com/])
