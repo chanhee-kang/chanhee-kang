@@ -7,7 +7,3 @@
 #### 🔭 Education
 - **Master of Artificial Intellignece** in Sungkyunkwan University, South Korea
 - **Bachelor of Information Technology** University of Wollongong, Australia
-
-#### 👋 Exersize
-- StackOveFlow (2022 ~ ing)
-- Tech Blog ([www.https://aboutnlp.tistory.com/])
