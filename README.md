@@ -1,4 +1,4 @@
-### Hi, My name is Chanhee Kang
+### Chanhee Kang's log
 
 #### 🌱 Work Experience
 - Junior Researcher at Institue of Financial Engineering, **Yonhap Infomax** (2022 ~ ing)
